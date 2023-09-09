@@ -1,10 +1,8 @@
 from flask import Flask, Response,  request
-import PyPDF2, json
-import os, io
+import json
+import os
 import openai
-import pandas as pd
 import xlsxwriter
-from openpyxl import Workbook
 import logging
 
 app = Flask(__name__)
