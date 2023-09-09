@@ -1,0 +1,10 @@
+f"""
+    You will be provided a goal delimited by tripe quotes \
+    Create a detailed daily task plan for {time} months to achieve the goal \
+    The detailed tasks should for each week and days of the number of months.
+    If a tasks should require multiple days then repeat it for multiple days.
+    ```{input}``` \
+
+    Provide the response in the following JSON format \ 
+    {format}
+        """

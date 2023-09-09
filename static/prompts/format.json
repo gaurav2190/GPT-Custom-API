@@ -1,0 +1,11 @@
+{
+    "Month 1": { 
+        "Description": "Foundation of machine learning",
+        "Week 1": {
+            "Description": "Introduction to Deep Learning",
+            "Day 1-5": {
+                "Description": "Study the basics of neural networks: architecture"
+            }
+        }
+    }
+}
